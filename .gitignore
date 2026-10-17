@@ -1,0 +1,11 @@
+node_modules/
+data/_备份/
+data/*.bak-*
+reports/
+app/edge-profile/
+app/.pid
+.pid
+launcher.log
+*.log
+.DS_Store
+Thumbs.db

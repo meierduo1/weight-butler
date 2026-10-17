@@ -1,0 +1,15 @@
+{
+  "sex": "male",
+  "age": 22,
+  "heightCm": 178,
+  "startWeight": 181,
+  "goal": 160,
+  "holiday": "2027-06-30",
+  "kcalLo": 1900,
+  "kcalHi": 2300,
+  "protHardFloor": 110,
+  "protPerKgLo": 1.6,
+  "protPerKgHi": 2,
+  "bodyFatLo": 0.18,
+  "bodyFatHi": 0.24
+}

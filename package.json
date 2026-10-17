@@ -1,0 +1,27 @@
+{
+  "name": "weight-butler",
+  "version": "1.0.0",
+  "description": "Local-first weight and body-composition tracker with honest statistics: Holt smoothing, AR(1)-corrected confidence intervals, TDEE estimation and forecast intervals.",
+  "license": "MIT",
+  "private": false,
+  "main": "app/server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node app/server.js",
+    "dev": "node app/server.js",
+    "seed": "node scripts/seed-demo-data.js --force",
+    "test": "node --test"
+  },
+  "keywords": [
+    "weight-loss",
+    "weight-tracking",
+    "statistics",
+    "holt-winters",
+    "time-series",
+    "local-first",
+    "privacy",
+    "nodejs"
+  ]
+}
