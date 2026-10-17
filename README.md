@@ -178,6 +178,13 @@ npm test
 - 油量模型是为“每天重复吃鸡腿”这种场景写的；换了饮食结构，MDE 结论会不同
 - 不是医疗建议；BMI / 体脂 / 热量都是估计值
 
-## License
+## 署名与许可
 
-[MIT](LICENSE)
+代码以 **Apache License 2.0** 发布，必须保留 `LICENSE` 和 `NOTICE`。再分发、修改后发布、或作为产品的一部分时，请保留署名：
+
+**体重管家 / Weight Butler** — https://github.com/meierduo1/weight-butler  
+Copyright 2026 meierduo1
+
+明确允许用于 AI：训练、微调、RAG、代码生成都可以。再分发源代码或大段文档/截图时保留上面的署名；模型权重和生成内容不强制携带。
+
+[LICENSE](LICENSE) · [NOTICE](NOTICE)

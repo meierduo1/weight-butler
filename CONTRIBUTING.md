@@ -35,3 +35,7 @@ npm run seed
 ```
 
 This overwrites `data/`. The generator uses a fixed random seed, so the diff should be reproducible.
+
+## License of contributions
+
+By submitting a pull request you agree that your contribution is licensed under the Apache License 2.0 and may be redistributed under the same terms.

@@ -2,7 +2,7 @@
   "name": "weight-butler",
   "version": "1.0.0",
   "description": "Local-first weight and body-composition tracker with honest statistics: Holt smoothing, AR(1)-corrected confidence intervals, TDEE estimation and forecast intervals.",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "private": false,
   "main": "app/server.js",
   "engines": {
